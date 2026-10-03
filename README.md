@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, sou Willians Santos 👋
 
-<!--
-**willians-dos-santos/willians-dos-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Computação e Senior Software Engineer com mais de 13 anos de experiência em arquitetura de software, sistemas distribuídos, backend corporativo e engenharia de IA.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias & Especialidades
+- **Linguagens & Frameworks:** Java (Spring Boot), Python (FastAPI), Delphi, TypeScript, Flutter/Dart.
+- **Bancos de Dados & Busca:** PostgreSQL, Neo4j, Redis, Firebird, Meilisearch.
+- **IA & Dados:** GraphRAG, Multi-Agent Systems, LLM Integration.
+- **DevOps & Infra:** Docker, CI/CD, Linux, Nginx.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A maior parte da minha trajetória profissional foi construída em ambientes corporativos e projetos privados de missão crítica. Aqui você encontra alguns estudos, experimentos de arquitetura e projetos pessoais.
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/willians-dos-santos)
